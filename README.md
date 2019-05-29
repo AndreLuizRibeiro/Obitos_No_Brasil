@@ -10,3 +10,5 @@ Neste gráfico foram inseridas as 3 principais causas de obitos nas 10 capitais 
 
 # Obito por gravidez parto e puerperio de cada capital (2018)
 Pode-se observar neste grafico que São Paulo é responsavel pela maior porcentagem dos obitos dentre as capitais.
+
+# Dados obitidos em: http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/nrbr.def
